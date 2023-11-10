@@ -69,7 +69,7 @@ public class Project002 {
             }
             musicchoice = 0;
             System.out.print(
-                    "Choose a song:\n1. Come Inside of My Heart - IV Of Spades\n2. Alive - Arjay Saguisa\n3. Someone To Spend Time With - Los Retros\n4. Exit\nYour choice: ");
+                    "Choose a song:\n1. Come Inside of My Heart - IV Of Spades\n2. Alive - Arjay Saguisa\n3. Someone To Spend Time With - Los Retros\nYour choice: ");
             ErrorTrapping();
             if (musicchoice == 1) {
                 songchoice = "Come Inside Of My Heart - IV Of Spades";
@@ -77,10 +77,6 @@ public class Project002 {
                 songchoice = "Alive - Arjay Saguisa";
             } else if (musicchoice == 3) {
                 songchoice = "Someone To Spend Time With - Los Retros";
-            } else if (musicchoice == 4) {
-                exit = true;
-                System.out.println("Terminating Program.");
-                System.exit(0);
             }
             PlayMusic();
         }
