@@ -291,7 +291,7 @@ public class Lyrics {
                                 "The words released caused every single pain", "It's not a story", "My love just ponder",
                                 "If we don't die you can't even tell me that", "Ending is present", "'Cause love is consistent",
                                 "The reality is different", "And as long as I am alive", "We won't divide", "--End Of Song--"};
-                                //end of song == 17
+                                
         while(running){
             lyrics = lyricarray[i];
             try{
@@ -300,82 +300,82 @@ public class Lyrics {
                 Thread.sleep(29000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //ep u are her
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //malab daworld
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //wat i need to cal
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //tired enough
+                TextAnimation();
                 
                 Thread.sleep(7500);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //i heard youre unhappy
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //if its my fault
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //things get hard
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //the worlds released
+                TextAnimation();
                 
                 Thread.sleep(7000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //its not a story
+                TextAnimation();
                 
                 Thread.sleep(2000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //my love just ponder
+                TextAnimation();
                 
                 Thread.sleep(3000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //if we dont die 
+                TextAnimation();
                 
                 Thread.sleep(3000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //ending is present
+                TextAnimation();
                 
                 Thread.sleep(5000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //cause love is consistent
+                TextAnimation();
                 
                 Thread.sleep(5000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //the reality is different
+                TextAnimation();
                 
                 Thread.sleep(6000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //and as long as
+                TextAnimation();
                 
                 Thread.sleep(4000);
                 lyrics = lyricarray[i];
                 System.out.println();
-                TextAnimation(); //we wunt
+                TextAnimation();
                 i = 0;
                 
                 Thread.sleep(2000);
