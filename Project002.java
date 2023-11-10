@@ -64,7 +64,7 @@ public class Project002 {
                 System.out.println("Terminating Program.");
                 System.exit(0);
             } else {
-                System.out.println("Input Error, Select only 1 and 2");
+                System.out.println("Input Error, Select only 1,2 and 3");
                 main(null);
             }
             musicchoice = 0;
